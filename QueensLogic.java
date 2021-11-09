@@ -1,8 +1,6 @@
 /**
  * This class implements the logic behind the BDD for the n-queens problem
  * You should implement all the missing methods
- *
- * @author Stavros Amanatidis
  */
 
 import java.util.*;
