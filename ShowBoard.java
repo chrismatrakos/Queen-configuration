@@ -1,6 +1,5 @@
 /**
  * This class initializes the logic and shows the board. 
- * @author Stavros Amanatidis
  *
  */
 import javax.swing.*;
